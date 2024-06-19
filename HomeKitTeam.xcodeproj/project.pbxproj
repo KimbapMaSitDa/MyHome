@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1FA532632C22862700DF93DE /* EmptyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FA532622C22862700DF93DE /* EmptyView.swift */; };
 		1FFF2ABF2C226D0A00760D64 /* HomeKitTeamApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FFF2ABE2C226D0A00760D64 /* HomeKitTeamApp.swift */; };
 		1FFF2AC12C226D0A00760D64 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FFF2AC02C226D0A00760D64 /* MainView.swift */; };
 		1FFF2AC32C226D0B00760D64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1FFF2AC22C226D0B00760D64 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1FA532622C22862700DF93DE /* EmptyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyView.swift; sourceTree = "<group>"; };
 		1FFF2ABB2C226D0A00760D64 /* HomeKitTeam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeKitTeam.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FFF2ABE2C226D0A00760D64 /* HomeKitTeamApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeKitTeamApp.swift; sourceTree = "<group>"; };
 		1FFF2AC02C226D0A00760D64 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				1FFF2ABE2C226D0A00760D64 /* HomeKitTeamApp.swift */,
 				1FFF2AC02C226D0A00760D64 /* MainView.swift */,
 				1FFF2AD52C22704B00760D64 /* RoomView.swift */,
+				1FA532622C22862700DF93DE /* EmptyView.swift */,
 				1FFF2AC22C226D0B00760D64 /* Assets.xcassets */,
 				1FFF2ACE2C226D6900760D64 /* DesignSystem */,
 				1FFF2AC42C226D0B00760D64 /* Preview Content */,
@@ -152,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1FFF2AC12C226D0A00760D64 /* MainView.swift in Sources */,
+				1FA532632C22862700DF93DE /* EmptyView.swift in Sources */,
 				1FFF2AD62C22704B00760D64 /* RoomView.swift in Sources */,
 				1FFF2ABF2C226D0A00760D64 /* HomeKitTeamApp.swift in Sources */,
 				1FFF2ACD2C226D4900760D64 /* Color.swift in Sources */,
