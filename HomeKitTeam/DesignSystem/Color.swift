@@ -18,6 +18,6 @@ extension Color {
     static let YellowDark = Color("Yellow - Dark")
     static let DarkYellow = Color("DarkYellow")
     
-    static let LabelsPrimary = "LabelsPrimary"
-    static let LabelsPrimaryDark = "LabelsPrimary - Dark"
+    static let LabelsPrimary = Color("LabelsPrimary")
+    static let LabelsPrimaryDark = Color("LabelsPrimary - Dark")
 }
